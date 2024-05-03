@@ -1,0 +1,58 @@
+"name","name_abbrev","is_state","is_territory"
+"Alabama","AL",True,False
+"Alaska","AK",True,False
+"American Samoa","AS",False,True
+"Arizona","AZ",True,False
+"Arkansas","AR",True,False
+"California","CA",True,False
+"Colorado","CO",True,False
+"Connecticut","CT",True,False
+"Delaware","DE",True,False
+"District of Columbia","DC",False,False
+"Florida","FL",True,False
+"Georgia","GA",True,False
+"Guam","GU",False,True
+"Hawaii","HI",True,False
+"Idaho","ID",True,False
+"Illinois","IL",True,False
+"Indiana","IN",True,False
+"Iowa","IA",True,False
+"Kansas","KS",True,False
+"Kentucky","KY",True,False
+"Louisiana","LA",True,False
+"Maine","ME",True,False
+"Maryland","MD",True,False
+"Massachusetts","MA",True,False
+"Michigan","MI",True,False
+"Minnesota","MN",True,False
+"Mississippi","MS",True,False
+"Missouri","MO",True,False
+"Montana","MT",True,False
+"Nebraska","NE",True,False
+"Nevada","NV",True,False
+"New Hampshire","NH",True,False
+"New Jersey","NJ",True,False
+"New Mexico","NM",True,False
+"New York","NY",True,False
+"North Carolina","NC",True,False
+"North Dakota","ND",True,False
+"Northern Mariana Islands","MP",False,True
+"Ohio","OH",True,False
+"Oklahoma","OK",True,False
+"Oregon","OR",True,False
+"Pennsylvania","PA",True,False
+"Puerto Rico","PR",False,True
+"Rhode Island","RI",True,False
+"South Carolina","SC",True,False
+"South Dakota","SD",True,False
+"Tennessee","TN",True,False
+"Texas","TX",True,False
+"Trust Territories","TT",False,True
+"Utah","UT",True,False
+"Vermont","VT",True,False
+"Virgin Islands","VI",False,True
+"Virginia","VA",True,False
+"Washington","WA",True,False
+"West Virginia","WV",True,False
+"Wisconsin","WI",True,False
+"Wyoming","WY",True,False
