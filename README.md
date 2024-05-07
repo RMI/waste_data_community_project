@@ -2,15 +2,15 @@
 Public repository of waste data contributed by multiple organizations
 
 # 2024-05-07
-The following files represent data dumps from tables in the WasteMAP database:__
-country.csv__
-data_source.csv__
-facility_emissions.csv__
-facility_gas_capture.csv__
-facility_projects.csv__
-facility_waste.csv__
-observation_type.csv__
-us_states_and_territories.csv__
+The following files represent data dumps from tables in the WasteMAP database:<br>
+country.csv<br>
+data_source.csv<br>
+facility_emissions.csv<br>
+facility_gas_capture.csv<br>
+facility_projects.csv<br>
+facility_waste.csv<br>
+observation_type.csv<br>
+us_states_and_territories.csv<br>
 
 The tables are named to be indicative of what data they contain.  And can be joined using common columns.  These common columns are primary - foreign key relationships.
 
@@ -40,7 +40,7 @@ This means:
 
 I primarily use LEFT JOIN because there are not always 1:1 relationships.  There are facilities that may have emissions data, but no waste data.  Gas capture data, but no projects data, etc.
 
-Using INNER JOIN woill cause facility rows to drop out of the results.  INNER JOIN will work without dropping out data on the following tables:__
-country.csv__
-data_source.csv__
-observation_type.csv__
+Using INNER JOIN woill cause facility rows to drop out of the results.  INNER JOIN will work without dropping out data on the following tables:<br>
+country.csv<br>
+data_source.csv<br>
+observation_type.csv<br>
