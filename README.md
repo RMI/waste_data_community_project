@@ -1,8 +1,6 @@
 # waste_public_data
 Public repository of waste data contributed by multiple organizations
 
-<<<<<<< Updated upstream
-=======
 # 2024-05-07
 The following files represent data dumps from tables in the WasteMAP database:__
 country.csv__
@@ -41,8 +39,8 @@ This means:
         ON usat.name_abbrev = f.state
 
 I primarily use LEFT JOIN because there are not always 1:1 relationships.  There are facilities that may have emissions data, but no waste data.  Gas capture data, but no projects data, etc.
+
 Using INNER JOIN woill cause facility rows to drop out of the results.  INNER JOIN will work without dropping out data on the following tables:__
 country.csv__
 data_source.csv__
 observation_type.csv__
->>>>>>> Stashed changes
